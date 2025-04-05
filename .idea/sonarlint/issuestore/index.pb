@@ -5,3 +5,5 @@ S
 #contracts/certificate-issuance.clar,6/3/63e862ebcc0825549ca38cff5a628aa1f98e034b
 Q
 !contracts/privacy-management.clar,d/6/d6fd6ce305a32fd8354eeff71966d78ebfeb1113
+Q
+!contracts/vaccination-record.clar,6/b/6b43ae5e56f006e944b250677f5cc050b5c6d91c
